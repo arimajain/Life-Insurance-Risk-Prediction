@@ -1,4 +1,4 @@
-# Life-Insurance-Risk-Prediction# Life Insurance Risk Prediction
+# Life Insurance Risk Prediction
 
 ## Project Overview
 
